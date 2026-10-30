@@ -1,0 +1,4 @@
+Modèle,MAE
+Random Forest,0.01
+Régression logistique,0.015
+Baseline naïve,0.02

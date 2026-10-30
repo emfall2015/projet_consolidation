@@ -1,0 +1,4 @@
+Modèle,Accuracy,Précision classe 1,Recall classe 1,F1-score classe 1,PR-AUC
+Baseline naïve,0.98,0.0,0.0,0.0,0.02
+Régression logistique,0.985,0.5714285714285714,1.0,0.7272727272727273,0.8541666666666666
+Random Forest,0.99,1.0,0.5,0.6666666666666666,1.0
