@@ -19,7 +19,7 @@ Le projet couvre plusieurs étapes du processus de valorisation des données :
 
 **Source :** [Kaggle – Datasets](https://www.kaggle.com/datasets)
 
-**Lien du dataset :** À compléter avec le lien direct vers le jeu de données utilisé.
+**Lien du dataset :** https://www.kaggle.com/datasets/ziya07/student-success-prediction-dataset
 
 ### Dictionnaire de données
 
